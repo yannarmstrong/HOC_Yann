@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #5e4f4f;
+    background-color: #86a663;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -40,7 +40,7 @@ img {
 }
 
 button {
-    background: red;
+    background: rgb(139, 230, 137);
 }
 footer {
     text-align: center;
