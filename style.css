@@ -1,13 +1,13 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
+    margin: 10;
     padding: 0;
     background-color: #f0f0f0;
     color: #333;
 }
 
 header {
-    background-color: #333;
+    background-color: #5e4f4f;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -22,6 +22,9 @@ h2 {
     color: #333;
 }
 
+.main_content {
+    margin: 10px;
+}
 
 img {
     max-width: 600;
@@ -36,6 +39,9 @@ img {
     color: #555;
 }
 
+button {
+    background: red;
+}
 footer {
     text-align: center;
     color: #667;
